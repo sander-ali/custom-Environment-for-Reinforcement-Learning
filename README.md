@@ -4,3 +4,4 @@ I have used 10 but you can use 5.
 Let me know if you have problem running the code. 
 You can add more hunters if you want. just move the q_table from line 85 to line 88 and disable the comments on line 86, 87, 91, 104, 105, and 127. 
 Also modify the q_table command as: q_table[((a,b),(c,d),(e,f))]= [np.random.uniform(-8,0) for i in range(8)]
+The demo video is uploaded on my YouTube Channel https://www.youtube.com/channel/UCY0_XtpzqA-4UwtRRIn7S5w
