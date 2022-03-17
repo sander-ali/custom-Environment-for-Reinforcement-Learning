@@ -10,3 +10,5 @@ You can add more hunters if you want. just move the q_table from line 85 to line
 Also modify the q_table command as: q_table[((a,b),(c,d),(e,f))]= [np.random.uniform(-8,0) for i in range(8)]  
 
 The demo video is uploaded on my YouTube Channel https://www.youtube.com/channel/UCY0_XtpzqA-4UwtRRIn7S5w
+
+![snap1](https://user-images.githubusercontent.com/26203136/158773115-b448a896-78a3-4e95-8af8-8150b69bfc38.jpg)
